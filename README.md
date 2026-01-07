@@ -16,4 +16,7 @@ This project involves a comprehensive analysis of **500 patient records** at Lag
 * **Excel:** Initial data cleaning and preparation.
 
 ## 🖼 Dashboard Preview
-![LUTH Dashboard](LUTH-Dashboard.png)
+![Figma Design](Medical Dashboard Design@2x (1).png)
+
+
+![Power BI Dashboard](Screenshot 2026-01-05 165733 (1).png)
